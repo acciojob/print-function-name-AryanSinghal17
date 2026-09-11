@@ -1,5 +1,5 @@
 //your JS code here. If required.
-functiom functionName(){
+function functionName(){
 	let name =functionName.name;
 	alert(name);
 }
